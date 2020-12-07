@@ -22,7 +22,7 @@ namespace clock
     {
         public MainWindow()
         {
-            InitializeComponent();
+            //InitializeComponent();
         }
     }
 }
